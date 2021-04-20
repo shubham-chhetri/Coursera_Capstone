@@ -1,1 +1,1 @@
-# Coursera_Capstone
+This repo contains my project for Coursera Data Science Capstone Project
